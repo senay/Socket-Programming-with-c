@@ -1,0 +1,2 @@
+typedef string request<60>;
+typedef string response<60>;
